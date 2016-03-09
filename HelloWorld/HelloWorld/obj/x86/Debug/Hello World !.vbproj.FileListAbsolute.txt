@@ -1,0 +1,9 @@
+c:\users\jlargo59\documents\visual studio 2010\Projects\Hello World !\Hello World !\bin\Debug\Hello World !.exe
+c:\users\jlargo59\documents\visual studio 2010\Projects\Hello World !\Hello World !\bin\Debug\Hello World !.pdb
+c:\users\jlargo59\documents\visual studio 2010\Projects\Hello World !\Hello World !\bin\Debug\Hello World !.xml
+c:\users\jlargo59\documents\visual studio 2010\Projects\Hello World !\Hello World !\obj\x86\Debug\Hello_World__.Resources.resources
+c:\users\jlargo59\documents\visual studio 2010\Projects\Hello World !\Hello World !\obj\x86\Debug\Hello World !.vbproj.GenerateResource.Cache
+c:\users\jlargo59\documents\visual studio 2010\Projects\Hello World !\Hello World !\obj\x86\Debug\Hello World !.exe
+c:\users\jlargo59\documents\visual studio 2010\Projects\Hello World !\Hello World !\obj\x86\Debug\Hello World !.xml
+c:\users\jlargo59\documents\visual studio 2010\Projects\Hello World !\Hello World !\obj\x86\Debug\Hello World !.pdb
+c:\users\jlargo59\documents\visual studio 2010\Projects\Hello World !\Hello World !\obj\x86\Debug\Hello_World__.HelloWorldFrom.resources
