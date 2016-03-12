@@ -1,0 +1,18 @@
+c:\users\jeada\documents\visual studio 2010\Projects\LRT1 Ticketing System\LRT1 Ticketing System\bin\Debug\LRT1 Ticketing System.exe
+c:\users\jeada\documents\visual studio 2010\Projects\LRT1 Ticketing System\LRT1 Ticketing System\bin\Debug\LRT1 Ticketing System.pdb
+c:\users\jeada\documents\visual studio 2010\Projects\LRT1 Ticketing System\LRT1 Ticketing System\bin\Debug\LRT1 Ticketing System.xml
+c:\users\jeada\documents\visual studio 2010\Projects\LRT1 Ticketing System\LRT1 Ticketing System\obj\x86\Debug\LRT1_Ticketing_System.Form1.resources
+c:\users\jeada\documents\visual studio 2010\Projects\LRT1 Ticketing System\LRT1 Ticketing System\obj\x86\Debug\LRT1_Ticketing_System.Resources.resources
+c:\users\jeada\documents\visual studio 2010\Projects\LRT1 Ticketing System\LRT1 Ticketing System\obj\x86\Debug\LRT1 Ticketing System.vbproj.GenerateResource.Cache
+c:\users\jeada\documents\visual studio 2010\Projects\LRT1 Ticketing System\LRT1 Ticketing System\obj\x86\Debug\LRT1 Ticketing System.exe
+c:\users\jeada\documents\visual studio 2010\Projects\LRT1 Ticketing System\LRT1 Ticketing System\obj\x86\Debug\LRT1 Ticketing System.xml
+c:\users\jeada\documents\visual studio 2010\Projects\LRT1 Ticketing System\LRT1 Ticketing System\obj\x86\Debug\LRT1 Ticketing System.pdb
+C:\Users\jlargo59\Desktop\vb.net\LRT1 Ticketing System\LRT1 Ticketing System\obj\x86\Debug\LRT1 Ticketing System.exe
+C:\Users\jlargo59\Desktop\vb.net\LRT1 Ticketing System\LRT1 Ticketing System\obj\x86\Debug\LRT1 Ticketing System.xml
+C:\Users\jlargo59\Desktop\vb.net\LRT1 Ticketing System\LRT1 Ticketing System\obj\x86\Debug\LRT1 Ticketing System.pdb
+C:\Users\jlargo59\Desktop\vb.net\LRT1 Ticketing System\LRT1 Ticketing System\bin\Debug\LRT1 Ticketing System.exe
+C:\Users\jlargo59\Desktop\vb.net\LRT1 Ticketing System\LRT1 Ticketing System\bin\Debug\LRT1 Ticketing System.pdb
+C:\Users\jlargo59\Desktop\vb.net\LRT1 Ticketing System\LRT1 Ticketing System\bin\Debug\LRT1 Ticketing System.xml
+C:\Users\jlargo59\Desktop\vb.net\LRT1 Ticketing System\LRT1 Ticketing System\obj\x86\Debug\LRT1_Ticketing_System.Form1.resources
+C:\Users\jlargo59\Desktop\vb.net\LRT1 Ticketing System\LRT1 Ticketing System\obj\x86\Debug\LRT1_Ticketing_System.Resources.resources
+C:\Users\jlargo59\Desktop\vb.net\LRT1 Ticketing System\LRT1 Ticketing System\obj\x86\Debug\LRT1 Ticketing System.vbproj.GenerateResource.Cache
